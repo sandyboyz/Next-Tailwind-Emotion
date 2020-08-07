@@ -8,10 +8,8 @@ const Button = styled.button`
 
 export default function Home() {
   return (
-    <div className="">
-      <Button>
+      <div className="text-xl">
         Hello World
-      </Button>
-    </div>
+      </div>
   )
 }
